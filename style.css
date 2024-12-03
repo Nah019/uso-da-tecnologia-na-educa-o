@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: url('fundo.jpeg')no-repeat center center fixed;
+    background: url('fundo.png') no-repeat center center fixed;
     background-size: cover;
     color: #333;
 }
@@ -11,7 +11,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: rgba(25, 25, 112, 0.9);
+    background: rgba(138, 43, 226, 0.9); /* Cor alterada para lilás */
     color: #fff;
     padding: 10px 20px;
 }
@@ -51,7 +51,7 @@ header {
 }
 
 footer {
-    background:rgba(25, 25, 112, 0.9);
+    background: rgba(138, 43, 226, 0.9); /* Cor alterada para lilás */
     color: #fff;
     text-align: center;
     padding: 10px 0;
@@ -65,7 +65,7 @@ footer {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #BA55D3	;
+    background: #BA55D3	;
     color: #fff;
     border: none;
     padding: 10px 15px;
