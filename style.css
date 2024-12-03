@@ -47,7 +47,7 @@ header {
 }
 
 .conteudo h2 {
-    color: #191970;
+    color: #BA55D3	;
 }
 
 footer {
@@ -65,7 +65,7 @@ footer {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background: #191970;
+    background-color: #BA55D3	;
     color: #fff;
     border: none;
     padding: 10px 15px;
