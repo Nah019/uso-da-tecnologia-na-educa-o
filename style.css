@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: url('fundo.png') no-repeat center center fixed;
+    background: url('fundo.jpeg') no-repeat center center fixed;
     background-size: cover;
     color: #333;
 }
@@ -47,7 +47,7 @@ header {
 }
 
 .conteudo h2 {
-    color: #BA55D3	;
+    cor: #BA55D3
 }
 
 footer {
@@ -65,7 +65,7 @@ footer {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background: #BA55D3	;
+    background: #191970;
     color: #fff;
     border: none;
     padding: 10px 15px;
