@@ -4,7 +4,7 @@ body {
     margin: 0;
     background: url('fundo.jpeg') no-repeat center center fixed;
     background-size: cover;
-    color:#fff;
+    color: #fff;
 }
 
 header {
@@ -12,7 +12,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background: rgba(138, 43, 226, 0.9); /* Cor alterada para lilás */
-    color:#fff
+    color: #fff;
     padding: 10px 20px;
 }
 
@@ -32,7 +32,7 @@ header {
 }
 
 .menu ul li a {
-    color:#fff;
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
 }
@@ -51,6 +51,7 @@ header {
     flex: 1;
 }
 
+/* Alteração da cor do texto nos quadros */
 .conteudo {
     background: rgba(255, 255, 255, 0.8);
     margin: 20px auto;
@@ -58,10 +59,11 @@ header {
     border-radius: 8px;
     width: 90%;
     max-width: 800px;
+    color: #000; /* Cor do texto ajustada para preto */
 }
 
 .conteudo h2 {
-    color:#000000 
+    color: #000; /* Cor do título ajustada para preto */
 }
 
 footer {
