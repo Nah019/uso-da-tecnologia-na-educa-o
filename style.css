@@ -32,7 +32,7 @@ header {
 }
 
 .menu ul li a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
     font-weight: bold;
 }
@@ -61,7 +61,7 @@ header {
 }
 
 .conteudo h2 {
-    cor: #fff
+    cor: #000000
 }
 
 footer {
