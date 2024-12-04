@@ -13,7 +13,7 @@ header {
     align-items: center;
     background: rgba(138, 43, 226, 0.9); /* Cor alterada para lilás */
     color:#fff
-        padding: 10px 20px;
+    padding: 10px 20px;
 }
 
 .logo img {
@@ -61,7 +61,7 @@ header {
 }
 
 .conteudo h2 {
-    cor: #000000
+    color:#000000 
 }
 
 footer {
